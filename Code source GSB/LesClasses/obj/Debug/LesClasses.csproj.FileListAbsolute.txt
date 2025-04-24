@@ -1,0 +1,21 @@
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\PPE\GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\PPE\GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.pdb
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\PPE\GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.AssemblyReference.cache
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\PPE\GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.CoreCompileInputs.cache
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\PPE\GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\PPE\GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.pdb
+P:\Documents\Projet\GSB exemple\GSB\LesClasses\bin\Debug\LesClasses.dll
+P:\Documents\Projet\GSB exemple\GSB\LesClasses\bin\Debug\LesClasses.pdb
+P:\Documents\Projet\GSB exemple\GSB\LesClasses\obj\Debug\LesClasses.csproj.AssemblyReference.cache
+P:\Documents\Projet\GSB exemple\GSB\LesClasses\obj\Debug\LesClasses.csproj.CoreCompileInputs.cache
+P:\Documents\Projet\GSB exemple\GSB\LesClasses\obj\Debug\LesClasses.dll
+P:\Documents\Projet\GSB exemple\GSB\LesClasses\obj\Debug\LesClasses.pdb
+P:\Documents\PPE\GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.dll
+P:\Documents\PPE\GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.pdb
+P:\Documents\PPE\GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.AssemblyReference.cache
+P:\Documents\PPE\GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.CoreCompileInputs.cache
+P:\Documents\PPE\GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.dll
+P:\Documents\PPE\GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.pdb
+P:\Documents\PPE\GSB\Application\GSB\LesClasses\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\Documents\PPE\GSB\Application\GSB\LesClasses\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+P:\Documents\PPE\GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.Up2Date
